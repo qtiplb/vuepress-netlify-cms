@@ -7,6 +7,7 @@ module.exports = {
     sidebar: 'auto',
     activeHeaderLinks: true, // Default: true
     displayAllHeaders: true,
+    lastUpdated: 'Last Updated', // string | boolean
     nav: [
       { text: 'Admin', link: '/admin/#/', }
     ]
