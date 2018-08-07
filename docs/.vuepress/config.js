@@ -5,6 +5,8 @@ module.exports = {
     docsDir: 'docs',
     repo: 'andreliem/vuepress-netlify-cms',
     sidebar: 'auto',
+    activeHeaderLinks: true, // Default: true
+    displayAllHeaders: true,
     nav: [
       { text: 'Admin', link: '/admin/#/', }
     ]
