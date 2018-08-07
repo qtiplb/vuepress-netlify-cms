@@ -4,7 +4,7 @@ module.exports = {
   themeConfig: {
     docsDir: 'docs',
     repo: 'andreliem/vuepress-netlify-cms',
-    sidebar: 'auto',
+    sideBar: 'auto',
     activeHeaderLinks: true, // Default: true
     displayAllHeaders: true,
     lastUpdated: 'Last Updated', // string | boolean
