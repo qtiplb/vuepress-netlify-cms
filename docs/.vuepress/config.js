@@ -4,12 +4,11 @@ module.exports = {
   themeConfig: {
     docsDir: 'docs',
     repo: 'andreliem/vuepress-netlify-cms',
+    displayAllHeaders: true
     sidebar: 'auto',
     nav: [
-      {
-        text: 'Admin',
-        link: '/admin/#/',
-      }
+      { text: 'Admin', link: '/admin/#/', }
+      { text: 'Numigi', link: 'www.numigi.com', }
     ]
   }
 }
