@@ -17,7 +17,6 @@ module.exports = {
         children: [ /* ... */ ]
       }
     ]
-    sideBar: 'auto',
     activeHeaderLinks: true, // Default: true
     displayAllHeaders: true,
     lastUpdated: 'Last Updated', // string | boolean
