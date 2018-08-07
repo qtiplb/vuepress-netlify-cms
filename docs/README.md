@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /images/vuejsradar.png
+heroImage: https://www.vetiq.org/wp-content/uploads/2018/04/NUMIGI-_logo-color-01.png
 actionText: Voyons voir →
 actionLink: /welcome
 features:
