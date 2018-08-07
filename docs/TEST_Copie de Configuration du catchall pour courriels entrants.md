@@ -2,7 +2,6 @@
 title: CONFIGURATION DU CATCHALL + ALIAS GMAIL POUR COURRIELS ENTRANTS ODOO
 sidebar: auto
 ---
-
 ## Contexte
 
 ### Odoo
