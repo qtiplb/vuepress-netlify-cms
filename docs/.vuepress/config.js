@@ -7,7 +7,6 @@ module.exports = {
     sidebar: 'auto',
     nav: [
       { text: 'Admin', link: '/admin/#/', }
-      { text: 'Numigi', link: 'www.numigi.com', }
     ]
   }
 }
