@@ -1,5 +1,6 @@
 ---
 title: Welcome to the VuePress + Netlify Example
+sidebar: auto
 ---
 Bienvenue sur notre documentation!
 
